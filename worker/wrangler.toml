@@ -1,0 +1,12 @@
+name = "prisma-ai"
+main = "src/index.js"
+compatibility_date = "2026-06-01"
+workers_dev = true
+
+[vars]
+# Fast, low-cost model for news Q&A and summaries.
+MODEL = "claude-haiku-5-5"
+# Sites allowed to use this server (comma-separated).
+ALLOWED_ORIGINS = "https://0xdvlpr.github.io"
+# Requests per visitor per hour.
+PER_HOUR = "40"
