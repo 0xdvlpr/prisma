@@ -1,0 +1,1030 @@
+{
+ "updated_at": "2026-10-31T00:00:00Z",
+ "countries": [
+  {
+   "code": "AE",
+   "stories": [
+    {
+     "rank": 1,
+     "title": "Oracle opening more data centres in UAE and Saudi Arabia as AI demand soars",
+     "url": "https://www.thenationalnews.com/future/technology/2026/10/29/oracle-opening-more-data-centres-in-uae-and-saudi-arabia-as-ai-demand-soars/",
+     "source": "The National",
+     "published": "2026-10-29",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 2,
+     "title": "Data Center World makes its Middle East debut in Abu Dhabi on 17 November",
+     "url": "https://channelpostmea.com/2026/10/28/data-center-world-makes-its-middle-east-debut-on-nov-17-in-abu-dhabi/",
+     "source": "Channel Post MEA",
+     "published": "2026-10-28",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    }
+   ]
+  },
+  {
+   "code": "AU",
+   "stories": [
+    {
+     "rank": 1,
+     "title": "Crypto assets lose value after major global attack, ASX gains ground",
+     "url": "https://www.abc.net.au/news/2026-10-30/asx-markets-business-live-news-oct-30/107326558",
+     "source": "ABC News",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 2,
+     "title": "NIMBY or pension: Australia pops the data centre bubble",
+     "url": "https://www.thestar.com.my/business/insight/2026/10/30/nimby-or-pension-australia-pops-the-data-centre-bubble",
+     "source": "The Star",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 3,
+     "title": "Albanese government plans to ban suburban data centres: AFR",
+     "url": "https://www.capitalbrief.com/briefing/albanese-government-plans-to-ban-suburban-data-centres-afr-9318dd53-c76f-4828-b3c8-a9f313c3e52e/",
+     "source": "Capital Brief",
+     "published": null,
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 4,
+     "title": "Anthropic taps a deep well of distrust in this rural town",
+     "url": "https://www.cnn.com/2026/10/26/australia/australia-ai-western-downs-digital-park-intl-hnk",
+     "source": "CNN",
+     "published": "2026-10-26",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 5,
+     "title": "AI data center boom in Australia stalls on grid strain, community opposition",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-22/ai-data-center-backlash-threatens-australia-s-70-billion-dream",
+     "source": "Bloomberg",
+     "published": "2026-10-22",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    }
+   ]
+  },
+  {
+   "code": "BR",
+   "stories": [
+    {
+     "rank": 1,
+     "title": "Brazil election 2026: Lula wins historic fourth term",
+     "url": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
+     "source": "CNBC",
+     "published": "2026-10-26",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 2,
+     "title": "Brazil election results 2026: key takeaways from Lula's historic win",
+     "url": "https://www.aljazeera.com/news/2026/10/26/brazil-election-2026-key-takeaways-from-lulas-historic-win",
+     "source": "Al Jazeera",
+     "published": "2026-10-26",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 3,
+     "title": "Lula wins record fourth term in surprise Brazil comeback",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-25/lula-wins-a-record-fourth-term-in-brazil-in-a-surprise-comeback",
+     "source": "Bloomberg",
+     "published": "2026-10-25",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 4,
+     "title": "Lula wins by 4.4 million votes",
+     "url": "https://www.riotimesonline.com/the-big-read-brazil-30-october-2026/",
+     "source": "The Rio Times",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 5,
+     "title": "Latin America feels grief, distrust and spooked markets",
+     "url": "https://www.riotimesonline.com/latin-american-pulse-for-friday-october-30-2026/",
+     "source": "The Rio Times",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    }
+   ]
+  },
+  {
+   "code": "CA",
+   "stories": [
+    {
+     "rank": 1,
+     "title": "Joint statement from the EU–Canada summit",
+     "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/30/joint-statement-eu-canada-summit-30-october-2026/",
+     "source": "Council of the EU",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 2,
+     "title": "Nova Scotia to host massive data centre to power Anthropic's Claude",
+     "url": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-to-host-massive-data-centre-to-power-anthropic-s-ai-assistant-claude-9.7383129",
+     "source": "CBC News",
+     "published": null,
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 3,
+     "title": "Bell Canada plans to buy 895 acres to expand AI data centre outside Regina",
+     "url": "https://www.cbc.ca/news/canada/saskatchewan/ai-data-centre-9.7372812",
+     "source": "CBC News",
+     "published": null,
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 4,
+     "title": "USA & Canada Intelligence Brief, Friday 30 October",
+     "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-friday-october-30-2026/",
+     "source": "The Rio Times",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 5,
+     "title": "Toronto news roundup, 30 October 2026",
+     "url": "https://urbantoronto.ca/news/2026/10/news-roundup-october-30-2026.62074",
+     "source": "UrbanToronto",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    }
+   ]
+  },
+  {
+   "code": "CN",
+   "stories": [
+    {
+     "rank": 1,
+     "title": "Xi urges Germany to maintain 'pragmatic' policy toward China",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-30/xi-urges-germany-to-maintain-pragmatic-policy-toward-china",
+     "source": "Bloomberg",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 2,
+     "title": "China plans AI export curbs to exert control over key tech",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-16/china-proposes-export-controls-on-ai-models-chips-and-agents",
+     "source": "Bloomberg",
+     "published": "2026-10-16",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 3,
+     "title": "Foreign Ministry spokesperson Guo Jiakun's regular press conference, 30 October",
+     "url": "https://www.fmprc.gov.cn/mfa_eng/xw/fyrbt/202610/t20261030_12050434.html",
+     "source": "Ministry of Foreign Affairs",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 4,
+     "title": "The Daily Roundup: 30 October 2026",
+     "url": "https://www.thewirechina.com/2026/10/30/the-daily-roundup-october-30-2026/",
+     "source": "The Wire China",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 5,
+     "title": "Morning Recap: 30 October 2026",
+     "url": "https://www.thestandard.com.hk/news/article/346985/Morning-Recap-October-30-2026",
+     "source": "The Standard",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    }
+   ]
+  },
+  {
+   "code": "DE",
+   "stories": [
+    {
+     "rank": 1,
+     "title": "Germany and France brace for protests on Halloween weekend",
+     "url": "https://www.aljazeera.com/news/2026/10/31/germany-and-france-brace-for-protests-on-halloween-weekend",
+     "source": "Al Jazeera",
+     "published": "2026-10-31",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 2,
+     "title": "Xi urges Germany to maintain 'pragmatic' policy toward China",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-30/xi-urges-germany-to-maintain-pragmatic-policy-toward-china",
+     "source": "Bloomberg",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 3,
+     "title": "Europe braces for more protests as cost-of-living anger grows",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-30/france-germany-and-italy-brace-for-protests-as-dissent-spreads",
+     "source": "Bloomberg",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 4,
+     "title": "Today in Germany: a roundup of the latest news on Friday",
+     "url": "https://www.thelocal.de/20261030/today-in-germany-a-roundup-of-the-latest-news-on-friday-146",
+     "source": "The Local",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 5,
+     "title": "Germany set to announce Nvidia AI agreement for industrial expansion",
+     "url": "https://www.globalbankingandfinance.com/germany-unveil-nvidia-ai-agreement-next-week-government/",
+     "source": "Global Banking & Finance Review",
+     "published": null,
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    }
+   ]
+  },
+  {
+   "code": "EG",
+   "stories": [
+    {
+     "rank": 1,
+     "title": "Egypt to end daylight saving time on 30 October",
+     "url": "https://www.tradingview.com/news/reuters.com,2026-10-28:newsml_Zaw7lS0b1:0-zawya-egypt-to-end-dst-on-october-30/",
+     "source": "Zawya via TradingView",
+     "published": "2026-10-28",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    }
+   ]
+  },
+  {
+   "code": "FR",
+   "stories": [
+    {
+     "rank": 1,
+     "title": "France braces for fresh unrest, government vows tough response",
+     "url": "https://www.usnews.com/news/world/articles/2026-10-30/france-braces-for-fresh-unrest-government-vows-tough-response",
+     "source": "US News",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 2,
+     "title": "France protests: who is on the streets and what do they want?",
+     "url": "https://www.bloomberg.com/news/features/2026-10-30/france-protests-who-is-on-the-streets-and-what-do-they-want",
+     "source": "Bloomberg",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 3,
+     "title": "France faces a fright night of inflation and unrest",
+     "url": "https://www.bloomberg.com/news/newsletters/2026-10-30/french-protests-france-faces-fright-night-of-inflation-and-unrest",
+     "source": "Bloomberg",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 4,
+     "title": "France National Quantum Update: October 2026",
+     "url": "https://thequantuminsider.com/2026/10/30/france-national-quantum-update-october-2026/",
+     "source": "The Quantum Insider",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 5,
+     "title": "News and information for Paris and Île-de-France, Friday 30 October",
+     "url": "https://www.sortiraparis.com/en/news/in-paris/guides/220535-news-and-information-from-ce-in-paris-and-ile-de-france",
+     "source": "Sortiraparis",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    }
+   ]
+  },
+  {
+   "code": "GB",
+   "stories": [
+    {
+     "rank": 1,
+     "title": "'Was it worth getting rid of Starmer?' BBC host torches Chancellor over lacklustre Budget",
+     "url": "https://www.huffingtonpost.co.uk/entry/bbc-nick-robinson-chancellor-keir-starmer_uk_6ae3085de4b0a2cccd467a6a",
+     "source": "HuffPost UK",
+     "published": null,
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 2,
+     "title": "Autumn Budget 2026: Data Centre Covenant to fast-track domestic capacity delivery",
+     "url": "https://www.newcivilengineer.com/latest/autumn-budget-2026-data-centre-covenant-to-fast-track-domestic-capacity-delivery-29-10-2026/",
+     "source": "New Civil Engineer",
+     "published": "2026-10-29",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 3,
+     "title": "Uncertainty over UK's largest AI data centre plan after Microsoft withdrawal",
+     "url": "https://www.newcivilengineer.com/latest/uncertainty-over-uks-largest-ai-data-centre-plan-after-microsoft-withdrawal-22-10-2026/",
+     "source": "New Civil Engineer",
+     "published": "2026-10-22",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 4,
+     "title": "The London Minute: Friday 30 October 2026",
+     "url": "https://londonminute.substack.com/p/london-minute-30-october-2026",
+     "source": "The London Minute",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 5,
+     "title": "Latest news bulletin, 30 October 2026, morning",
+     "url": "https://www.inkl.com/news/latest-news-bulletin-october-30th-2026-morning",
+     "source": "inkl",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    }
+   ]
+  },
+  {
+   "code": "ID",
+   "stories": [
+    {
+     "rank": 1,
+     "title": "Forest fires hit five Indonesian provinces while floods affect thousands in North Sumatra",
+     "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/30/forest-fires-hit-five-indonesian-provinces-while-floods-affect-thousands-in-north-sumatra",
+     "source": "The Star",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 2,
+     "title": "Indonesian students protest over forest fires and Prabowo spending",
+     "url": "https://businessmirror.com.ph/2026/10/28/indonesian-students-protest-over-forest-fires-prabowo-spending/",
+     "source": "BusinessMirror",
+     "published": "2026-10-28",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 3,
+     "title": "Top news headlines in Indonesia and Southeast Asia, 30 October",
+     "url": "https://www.bernama.com/en/world/news.php?id=2627615",
+     "source": "Bernama",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    }
+   ]
+  },
+  {
+   "code": "IN",
+   "stories": [
+    {
+     "rank": 1,
+     "title": "Delhi today: rain brings chill, Dosanjh concert and liquor app row",
+     "url": "https://www.latestly.com/india/news/delhi-latest-news-today-on-october-30th-2026-rain-brings-chill-dosanjh-concert-liquor-app-row-7661416.html",
+     "source": "LatestLY",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 2,
+     "title": "India eyes $200 billion data centre boom",
+     "url": "https://en.channeliam.com/2026/10/27/india-data-centre-investment/",
+     "source": "Channel IAM",
+     "published": "2026-10-27",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 3,
+     "title": "Vyoma.AI breaks ground on 52 MW AI-ready data center in Chennai",
+     "url": "https://www.larsentoubro.com/pressreleases/2026/2026-10-28-vyomaai-breaks-ground-on-52-mw-ai-ready-data-center-in-chennai",
+     "source": "Larsen & Toubro",
+     "published": "2026-10-28",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 4,
+     "title": "LiveLaw breaking news alerts: 30 October 2026",
+     "url": "https://www.livelaw.in/top-stories/livelaw-breaking-news-alerts-30-october-2026-556571",
+     "source": "LiveLaw",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 5,
+     "title": "UNI news digest, 1900 hrs, 30 October",
+     "url": "https://www.uniindia.com/national/uni-news-digest-at-1900-hrs-oct-30-2026/230832",
+     "source": "UNI",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    }
+   ]
+  },
+  {
+   "code": "IR",
+   "stories": [
+    {
+     "rank": 1,
+     "title": "Qatari mediators return to Tehran to push for US–Iran deal",
+     "url": "https://www.khaleejtimes.com/world/mena/us-israel-iran-lebanon-war-live-updates-october-30-2026",
+     "source": "Khaleej Times",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 2,
+     "title": "Three tankers strike mines and catch fire in Strait of Hormuz, Iran claims",
+     "url": "https://www.wsbradio.com/news/world/saudi-arabia-says/4ZG6XV7GPEZFNK557WXF2OLZ5I/",
+     "source": "WSB Radio / AP",
+     "published": null,
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    }
+   ]
+  },
+  {
+   "code": "JP",
+   "stories": [
+    {
+     "rank": 1,
+     "title": "Chinese man arrested over spray attack in Tokyo's Ginza",
+     "url": "https://www.japantimes.co.jp/news/2026/10/30/japan/crime-legal/ginza-spray-attack-arrest/",
+     "source": "The Japan Times",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 2,
+     "title": "Japan plans to quadruple spending on chips and AI",
+     "url": "https://itbusinesstoday.com/industrial-tech/semiconductorandelectronics/japan-plans-to-quadruple-spending-on-chips-and-ai-signaling-a-new-era-for-the-countrys-technology-industry/",
+     "source": "IT Business Today",
+     "published": null,
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 3,
+     "title": "New project aims to create AI medical image-processing system in Japan",
+     "url": "https://www.japantimes.co.jp/news/2026/10/21/japan/medical-ai-advanced-chips/",
+     "source": "The Japan Times",
+     "published": "2026-10-21",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 4,
+     "title": "Japanese economic and business weekly: 24–30 October 2026",
+     "url": "https://www.einnews.com/pr_news/953523688/japanese-economic-and-business-weekly-newsletter-24-30-october-2026",
+     "source": "EIN Presswire",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 5,
+     "title": "Headline news for 30 October 2026",
+     "url": "https://gigazine.net/gsc_news/en/20261030-headline/",
+     "source": "GIGAZINE",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    }
+   ]
+  },
+  {
+   "code": "KE",
+   "stories": [
+    {
+     "rank": 1,
+     "title": "Shared GPUs, data centres and energy are shaping the cost of building AI in Africa",
+     "url": "https://techtrendske.co.ke/2026/10/30/affordable-ai-computing-africa/",
+     "source": "TechTrends Kenya",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    }
+   ]
+  },
+  {
+   "code": "KP",
+   "stories": [
+    {
+     "rank": 1,
+     "title": "North Korea warns South Korea with ballistic missiles as Seoul calls for talks",
+     "url": "https://www.euronews.com/2026/10/30/north-korea-warns-south-korea-with-ballistic-missiles-as-seoul-calls-for-talks-to-ease-bor",
+     "source": "Euronews",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    }
+   ]
+  },
+  {
+   "code": "KR",
+   "stories": [
+    {
+     "rank": 1,
+     "title": "North Korea warns South Korea with ballistic missiles as Seoul calls for talks",
+     "url": "https://www.euronews.com/2026/10/30/north-korea-warns-south-korea-with-ballistic-missiles-as-seoul-calls-for-talks-to-ease-bor",
+     "source": "Euronews",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 2,
+     "title": "AI chip boom tripled South Korea's economic growth in the third quarter",
+     "url": "https://www.euronews.com/2026/10/27/ai-chip-boom-tripled-south-koreas-economic-growth-in-the-third-quarter",
+     "source": "Euronews",
+     "published": "2026-10-27",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 3,
+     "title": "Alphabet's heavy AI spending hits chip stocks in Seoul and Tokyo",
+     "url": "https://www.ajupress.com/view/20261030153229938",
+     "source": "Aju Press",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 4,
+     "title": "Samsung keeps shattering profit records as AI boom lifts chip demand",
+     "url": "https://www.wdbo.com/news/business/samsung-keeps/UT2F7ICXRQ6QLMO5SMQEK56BME/",
+     "source": "WDBO / AP",
+     "published": null,
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 5,
+     "title": "Morning Wide: today's major news, 30 October 2026",
+     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008822291",
+     "source": "SBS News",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    }
+   ]
+  },
+  {
+   "code": "MX",
+   "stories": [
+    {
+     "rank": 1,
+     "title": "Sheinbaum honors Day of the Dead traditions at Friday mañanera",
+     "url": "https://mexiconewsdaily.com/politics/sheinbaum-day-of-the-dead-traditions-october-30-mananera/",
+     "source": "Mexico News Daily",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 2,
+     "title": "US Embassy demonstration alert: protest and traffic disruptions on Friday 30 October",
+     "url": "https://mx.usembassy.gov/demonstration-alert-protest-and-traffic-related-disruptions-on-friday-october-30/",
+     "source": "U.S. Embassy Mexico",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 3,
+     "title": "Bloqueos en CDMX y Edomex hoy 30 de octubre, en vivo",
+     "url": "https://www.milenio.com/comunidad/bloqueos-manifestaciones-cdmx-edomex-en-vivo-hoy-30-octubre-2026",
+     "source": "Milenio",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 4,
+     "title": "Temblor hoy 30 de octubre 2026, en vivo",
+     "url": "https://amp.milenio.com/estados/temblor-hoy-mexico-sismo-magnitud-30-de-octubre-2026-en-vivo",
+     "source": "Milenio",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    }
+   ]
+  },
+  {
+   "code": "MY",
+   "stories": [
+    {
+     "rank": 1,
+     "title": "84 data centres approved: Malaysia's challenge is turning billions into lasting gains",
+     "url": "https://www.nst.com.my/amp/property/2026/10/1556080/84-data-centres-approved-malaysias-challenge-turning-billions-lasting",
+     "source": "New Straits Times",
+     "published": null,
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 2,
+     "title": "Singapore's PDG seeks $1.2 billion loan for Malaysia data center",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-14/singapore-s-pdg-seeks-1-2-billion-loan-for-malaysia-data-center",
+     "source": "Bloomberg",
+     "published": "2026-10-14",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 3,
+     "title": "News@9: today's top headlines, 30 October 2026",
+     "url": "https://www.nst.com.my/amp/news/nation/2026/10/1567162/news9-todays-top-headlines-october-30-2026-watch",
+     "source": "New Straits Times",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    }
+   ]
+  },
+  {
+   "code": "NG",
+   "stories": [
+    {
+     "rank": 1,
+     "title": "Top Nigerian newspaper headlines for Friday 30 October 2026",
+     "url": "https://www.naijanews.com/2026/10/30/nigerian-newspaper-headlines-30th-october-2026/",
+     "source": "Naija News",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 2,
+     "title": "Nigerian newspaper review: Friday 30 October 2026",
+     "url": "https://osundefender.com/nigerian-newspaper-review-friday-october-30-2026/",
+     "source": "OsunDefender",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    }
+   ]
+  },
+  {
+   "code": "QA",
+   "stories": [
+    {
+     "rank": 1,
+     "title": "Qatari mediators return to Tehran to push for US–Iran deal",
+     "url": "https://www.khaleejtimes.com/world/mena/us-israel-iran-lebanon-war-live-updates-october-30-2026",
+     "source": "Khaleej Times",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    }
+   ]
+  },
+  {
+   "code": "RU",
+   "stories": [
+    {
+     "rank": 1,
+     "title": "Russian oil refinery struck as Ukraine renews drone attacks",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/russian-oil-refinery-struck-as-ukraine-renews-drone-attacks",
+     "source": "Al Jazeera",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 2,
+     "title": "Russia in Review, 23–30 October 2026",
+     "url": "https://www.russiamatters.org/news/russia-review/russia-review-oct-23-30-2026",
+     "source": "Russia Matters",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    }
+   ]
+  },
+  {
+   "code": "SA",
+   "stories": [
+    {
+     "rank": 1,
+     "title": "Saudi Arabia says drone intercepted near Islam's holiest city",
+     "url": "https://www.ksat.com/news/world/2026/10/30/saudi-arabia-says-drone-intercepted-near-islams-holiest-city-and-other-mideast-news/",
+     "source": "KSAT / AP",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 2,
+     "title": "Oracle among AI firms forging ahead with Gulf expansion",
+     "url": "https://www.semafor.com/article/10/30/2026/oracle-among-ai-firms-forging-ahead-with-gulf-expansion",
+     "source": "Semafor",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 3,
+     "title": "Saudi Arabia can power AI data centers faster than the US, says Siemens Energy CEO",
+     "url": "https://www.arabnews.com/eye-on-ai/saudi-arabia-can-power-ai-data-centers-at-faster-pace-than-us-siemens-energy-ceo-3005885",
+     "source": "Arab News",
+     "published": null,
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    }
+   ]
+  },
+  {
+   "code": "SG",
+   "stories": [
+    {
+     "rank": 1,
+     "title": "Singapore sets Southeast Asia's first binding data centre rules",
+     "url": "https://www.eco-business.com/news/singapore-sets-southeast-asias-first-binding-data-centre-rules-building-demand-for-clean-energy/",
+     "source": "Eco-Business",
+     "published": null,
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    }
+   ]
+  },
+  {
+   "code": "TW",
+   "stories": [
+    {
+     "rank": 1,
+     "title": "TSMC slows Taiwan construction after accident kills four",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-21/tsmc-suspends-some-construction-after-deadly-accident-kills-four",
+     "source": "Bloomberg",
+     "published": "2026-10-21",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 2,
+     "title": "China & Taiwan Update, 27 October 2026",
+     "url": "https://www.aei.org/commentary/china-taiwan-update-october-27-2026/",
+     "source": "AEI",
+     "published": "2026-10-27",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 3,
+     "title": "TSMC's upbeat outlook fails to quash AI buildout concerns",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-15/tsmc-s-profit-surpasses-expectations-after-ai-orders-rush-in",
+     "source": "Bloomberg",
+     "published": "2026-10-15",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    }
+   ]
+  },
+  {
+   "code": "UA",
+   "stories": [
+    {
+     "rank": 1,
+     "title": "Ukraine invests in firepower as it inflicts a new Russian casualty record",
+     "url": "https://www.aljazeera.com/news/2026/10/30/ukraine-invests-in-firepower-as-it-inflicts-a-new-russian-casualty-record",
+     "source": "Al Jazeera",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 2,
+     "title": "Russian oil refinery struck as Ukraine renews drone attacks",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/russian-oil-refinery-struck-as-ukraine-renews-drone-attacks",
+     "source": "Al Jazeera",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 3,
+     "title": "Russian offensive campaign assessment, 30 October 2026",
+     "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-october-30-2026",
+     "source": "Critical Threats",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 4,
+     "title": "Russia's losses in Ukraine as of 30 October",
+     "url": "https://newsukraine.rbc.ua/news/russia-s-losses-in-ukraine-as-of-october-1793299141.html",
+     "source": "RBC-Ukraine",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    }
+   ]
+  },
+  {
+   "code": "US",
+   "stories": [
+    {
+     "rank": 1,
+     "title": "Michigan Democratic unity teeters as El-Sayed tells primary rival to stay away from his events",
+     "url": "https://www.cnn.com/2026/10/30/politics/live-news/midterm-election-congress",
+     "source": "CNN",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 2,
+     "title": "AI data center boom faces backlash at US ballot box",
+     "url": "https://www.usnews.com/news/politics/articles/2026-10-29/ai-data-center-boom-faces-backlash-at-us-ballot-box",
+     "source": "US News",
+     "published": "2026-10-29",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 3,
+     "title": "Explainer: gone in 20 minutes, how the biggest heist in crypto history unfolded",
+     "url": "https://money.usnews.com/investing/news/articles/2026-10-30/explainer-gone-in-20-minutes-how-the-biggest-heist-in-crypto-history-unfolded",
+     "source": "US News",
+     "published": "2026-10-30",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 4,
+     "title": "DOE loans $5B to nuclear plants that will power data centers",
+     "url": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/",
+     "source": "TechCrunch",
+     "published": "2026-10-28",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    },
+    {
+     "rank": 5,
+     "title": "New US data centers projected to emit more carbon than all of Mexico",
+     "url": "https://bloomberg.com/news/articles/2026-10-28/us-data-center-buildout-risks-erasing-years-of-climate-progress",
+     "source": "Bloomberg",
+     "published": "2026-10-28",
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    }
+   ]
+  },
+  {
+   "code": "ZA",
+   "stories": [
+    {
+     "rank": 1,
+     "title": "Only 5% of Africa's data centres are AI-ready: what it means for South Africa",
+     "url": "https://hodi.host/re-en/building-africa/ai-ready-data-centres-africa-south-africa-nigeria.html",
+     "source": "Building Africa",
+     "published": null,
+     "language": "",
+     "outlets": 1,
+     "stale": false
+    }
+   ]
+  }
+ ]
+}

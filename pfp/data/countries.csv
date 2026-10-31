@@ -1,0 +1,197 @@
+iso2,name,region,gdelt_source,gnews_lang
+AF,Afghanistan,Asia,afghanistan,
+AL,Albania,Europe,albania,
+DZ,Algeria,Africa,algeria,
+AD,Andorra,Europe,andorra,
+AO,Angola,Africa,angola,
+AG,Antigua and Barbuda,Americas,antiguaandbarbuda,
+AR,Argentina,Americas,argentina,es-419
+AM,Armenia,Asia,armenia,
+AU,Australia,Oceania,australia,en
+AT,Austria,Europe,austria,de
+AZ,Azerbaijan,Asia,azerbaijan,
+BS,Bahamas,Americas,thebahamas,
+BH,Bahrain,Middle East,bahrain,
+BD,Bangladesh,Asia,bangladesh,bn
+BB,Barbados,Americas,barbados,
+BY,Belarus,Europe,belarus,
+BE,Belgium,Europe,belgium,fr
+BZ,Belize,Americas,belize,
+BJ,Benin,Africa,benin,
+BT,Bhutan,Asia,bhutan,
+BO,Bolivia,Americas,bolivia,
+BA,Bosnia and Herzegovina,Europe,bosniaandherzegovina,
+BW,Botswana,Africa,botswana,en
+BR,Brazil,Americas,brazil,pt-419
+BN,Brunei,Asia,brunei,
+BG,Bulgaria,Europe,bulgaria,bg
+BF,Burkina Faso,Africa,burkinafaso,
+BI,Burundi,Africa,burundi,
+CV,Cabo Verde,Africa,capeverde,
+KH,Cambodia,Asia,cambodia,
+CM,Cameroon,Africa,cameroon,
+CA,Canada,Americas,canada,en
+CF,Central African Republic,Africa,centralafricanrepublic,
+TD,Chad,Africa,chad,
+CL,Chile,Americas,chile,es-419
+CN,China,Asia,china,zh-Hans
+CO,Colombia,Americas,colombia,es-419
+KM,Comoros,Africa,comoros,
+CG,Congo,Africa,republicofthecongo,
+CR,Costa Rica,Americas,costarica,
+CI,Côte d'Ivoire,Africa,ivorycoast,
+HR,Croatia,Europe,croatia,
+CU,Cuba,Americas,cuba,es-419
+CY,Cyprus,Europe,cyprus,
+CZ,Czechia,Europe,czechrepublic,cs
+CD,DR Congo,Africa,democraticrepublicofthecongo,
+DK,Denmark,Europe,denmark,
+DJ,Djibouti,Africa,djibouti,
+DM,Dominica,Americas,dominica,
+DO,Dominican Republic,Americas,dominicanrepublic,
+EC,Ecuador,Americas,ecuador,
+EG,Egypt,Africa,egypt,ar
+SV,El Salvador,Americas,elsalvador,
+GQ,Equatorial Guinea,Africa,equatorialguinea,
+ER,Eritrea,Africa,eritrea,
+EE,Estonia,Europe,estonia,
+SZ,Eswatini,Africa,swaziland,
+ET,Ethiopia,Africa,ethiopia,en
+FJ,Fiji,Oceania,fiji,
+FI,Finland,Europe,finland,
+FR,France,Europe,france,fr
+GA,Gabon,Africa,gabon,
+GM,Gambia,Africa,thegambia,
+GE,Georgia,Asia,georgia,
+DE,Germany,Europe,germany,de
+GH,Ghana,Africa,ghana,en
+GR,Greece,Europe,greece,el
+GD,Grenada,Americas,grenada,
+GT,Guatemala,Americas,guatemala,
+GN,Guinea,Africa,guinea,
+GW,Guinea-Bissau,Africa,guineabissau,
+GY,Guyana,Americas,guyana,
+HT,Haiti,Americas,haiti,
+VA,Holy See,Europe,vaticancity,
+HN,Honduras,Americas,honduras,
+HU,Hungary,Europe,hungary,hu
+IS,Iceland,Europe,iceland,
+IN,India,Asia,india,en
+ID,Indonesia,Asia,indonesia,id
+IR,Iran,Middle East,iran,
+IQ,Iraq,Middle East,iraq,
+IE,Ireland,Europe,ireland,en
+IL,Israel,Middle East,israel,he
+IT,Italy,Europe,italy,it
+JM,Jamaica,Americas,jamaica,
+JP,Japan,Asia,japan,ja
+JO,Jordan,Middle East,jordan,
+KZ,Kazakhstan,Asia,kazakhstan,
+KE,Kenya,Africa,kenya,en
+KI,Kiribati,Oceania,kiribati,
+KW,Kuwait,Middle East,kuwait,
+KG,Kyrgyzstan,Asia,kyrgyzstan,
+LA,Laos,Asia,laos,
+LV,Latvia,Europe,latvia,lv
+LB,Lebanon,Middle East,lebanon,ar
+LS,Lesotho,Africa,lesotho,
+LR,Liberia,Africa,liberia,
+LY,Libya,Africa,libya,
+LI,Liechtenstein,Europe,liechtenstein,
+LT,Lithuania,Europe,lithuania,lt
+LU,Luxembourg,Europe,luxembourg,
+MG,Madagascar,Africa,madagascar,
+MW,Malawi,Africa,malawi,
+MY,Malaysia,Asia,malaysia,en
+MV,Maldives,Asia,maldives,
+ML,Mali,Africa,mali,
+MT,Malta,Europe,malta,
+MH,Marshall Islands,Oceania,marshallislands,
+MR,Mauritania,Africa,mauritania,
+MU,Mauritius,Africa,mauritius,
+MX,Mexico,Americas,mexico,es-419
+FM,Micronesia,Oceania,federatedstatesofmicronesia,
+MD,Moldova,Europe,moldova,
+MC,Monaco,Europe,monaco,
+MN,Mongolia,Asia,mongolia,
+ME,Montenegro,Europe,montenegro,
+MA,Morocco,Africa,morocco,fr
+MZ,Mozambique,Africa,mozambique,
+MM,Myanmar,Asia,burma,
+NA,Namibia,Africa,namibia,en
+NR,Nauru,Oceania,nauru,
+NP,Nepal,Asia,nepal,
+NL,Netherlands,Europe,netherlands,nl
+NZ,New Zealand,Oceania,newzealand,en
+NI,Nicaragua,Americas,nicaragua,
+NE,Niger,Africa,niger,
+NG,Nigeria,Africa,nigeria,en
+KP,North Korea,Asia,northkorea,
+MK,North Macedonia,Europe,macedonia,
+NO,Norway,Europe,norway,no
+OM,Oman,Middle East,oman,
+PK,Pakistan,Asia,pakistan,en
+PW,Palau,Oceania,palau,
+PS,Palestine,Middle East,westbank,
+PA,Panama,Americas,panama,
+PG,Papua New Guinea,Oceania,papuanewguinea,
+PY,Paraguay,Americas,paraguay,
+PE,Peru,Americas,peru,es-419
+PH,Philippines,Asia,philippines,en
+PL,Poland,Europe,poland,pl
+PT,Portugal,Europe,portugal,pt-150
+QA,Qatar,Middle East,qatar,
+RO,Romania,Europe,romania,ro
+RU,Russia,Europe,russia,ru
+RW,Rwanda,Africa,rwanda,
+KN,Saint Kitts and Nevis,Americas,saintkittsandnevis,
+LC,Saint Lucia,Americas,saintlucia,
+VC,Saint Vincent and the Grenadines,Americas,saintvincentandthegrenadines,
+WS,Samoa,Oceania,samoa,
+SM,San Marino,Europe,sanmarino,
+ST,São Tomé and Príncipe,Africa,saotomeandprincipe,
+SA,Saudi Arabia,Middle East,saudiarabia,ar
+SN,Senegal,Africa,senegal,fr
+RS,Serbia,Europe,serbia,sr
+SC,Seychelles,Africa,seychelles,
+SL,Sierra Leone,Africa,sierraleone,
+SG,Singapore,Asia,singapore,en
+SK,Slovakia,Europe,slovakia,sk
+SI,Slovenia,Europe,slovenia,sl
+SB,Solomon Islands,Oceania,solomonislands,
+SO,Somalia,Africa,somalia,
+ZA,South Africa,Africa,southafrica,en
+KR,South Korea,Asia,southkorea,ko
+SS,South Sudan,Africa,southsudan,
+ES,Spain,Europe,spain,
+LK,Sri Lanka,Asia,srilanka,
+SD,Sudan,Africa,sudan,
+SR,Suriname,Americas,suriname,
+SE,Sweden,Europe,sweden,sv
+CH,Switzerland,Europe,switzerland,de
+SY,Syria,Middle East,syria,
+TW,Taiwan,Asia,taiwan,zh-Hant
+TJ,Tajikistan,Asia,tajikistan,
+TZ,Tanzania,Africa,tanzania,en
+TH,Thailand,Asia,thailand,th
+TL,Timor-Leste,Asia,easttimor,
+TG,Togo,Africa,togo,
+TO,Tonga,Oceania,tonga,
+TT,Trinidad and Tobago,Americas,trinidadandtobago,
+TN,Tunisia,Africa,tunisia,
+TR,Türkiye,Middle East,turkey,tr
+TM,Turkmenistan,Asia,turkmenistan,
+TV,Tuvalu,Oceania,tuvalu,
+UG,Uganda,Africa,uganda,en
+UA,Ukraine,Europe,ukraine,uk
+AE,United Arab Emirates,Middle East,unitedarabemirates,ar
+GB,United Kingdom,Europe,unitedkingdom,en
+US,United States,Americas,unitedstates,en
+UY,Uruguay,Americas,uruguay,
+UZ,Uzbekistan,Asia,uzbekistan,
+VU,Vanuatu,Oceania,vanuatu,
+VE,Venezuela,Americas,venezuela,es-419
+VN,Vietnam,Asia,vietnam,vi
+YE,Yemen,Middle East,yemen,
+ZM,Zambia,Africa,zambia,
+ZW,Zimbabwe,Africa,zimbabwe,en

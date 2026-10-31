@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Prisma Daily · Coming soon</title>
+<meta name="description" content="The top stories from every country, every day, in a three-minute Prisma Brief. Coming soon.">
+<meta name="theme-color" content="#0B0B0D">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400..800&display=swap">
+<style>
+:root{--bg:#0B0B0D;--ink:#F5F5F6;--muted:#9C9CA5;--line:#26262C;--accent:#FF5A43}
+*{box-sizing:border-box}
+html,body{margin:0;min-height:100%;background:var(--bg);color:var(--ink);font-family:"DM Sans",system-ui,-apple-system,"Segoe UI",sans-serif;-webkit-font-smoothing:antialiased}
+body{min-height:100dvh;display:flex;flex-direction:column;overflow-x:clip}
+.wrap{width:min(1080px,100%);margin:0 auto;padding:0 max(20px,env(safe-area-inset-left,0px))}
+header{padding:calc(22px + env(safe-area-inset-top,0px)) 0 0}
+.logo{font-weight:800;font-size:28px;letter-spacing:-.04em}
+.logo i{font-style:normal;color:var(--accent)}
+main{flex:1;display:flex;align-items:center;padding:48px 0}
+.pill{display:inline-flex;align-items:center;gap:8px;border:1px solid var(--line);border-radius:999px;padding:6px 14px;font-size:14px;font-weight:600;color:var(--ink)}
+.pill b{width:8px;height:8px;border-radius:50%;background:var(--accent);animation:pulse 1.8s ease-in-out infinite}
+@keyframes pulse{50%{opacity:.35}}
+h1{font-weight:800;font-size:clamp(46px,10.5vw,124px);line-height:.94;letter-spacing:-.055em;margin:22px 0 0}
+h1 span{color:var(--accent)}
+.lede{font-size:clamp(18px,2.4vw,22px);line-height:1.45;color:var(--muted);max-width:34ch;margin:24px 0 0}
+.lede strong{color:var(--ink);font-weight:600}
+.row{display:flex;flex-wrap:wrap;gap:10px;margin-top:32px}
+.btn{display:inline-flex;align-items:center;gap:8px;min-height:50px;padding:0 22px;border-radius:999px;font:600 16px/1 inherit;font-family:inherit;text-decoration:none;color:var(--ink);border:1.5px solid var(--line)}
+.btn.accent{background:var(--accent);border-color:var(--accent);color:#1A0703}
+.btn:hover{border-color:var(--muted)}.btn.accent:hover{filter:brightness(1.06)}
+.btn:focus-visible{outline:3px solid var(--accent);outline-offset:3px}
+.facts{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin-top:56px;max-width:640px}
+.fact{border-top:1.5px solid var(--line);padding-top:12px}
+.fact b{display:block;font-weight:800;font-size:clamp(26px,4vw,36px);letter-spacing:-.04em}
+.fact span{color:var(--muted);font-size:14px}
+footer{padding:22px 0 calc(22px + env(safe-area-inset-bottom,0px));color:var(--muted);font-size:14px;border-top:1px solid var(--line)}
+footer .wrap{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}
+@media (prefers-reduced-motion:reduce){.pill b{animation:none}}
+</style>
+</head>
+<body>
+<header><div class="wrap"><div class="logo" aria-label="Prisma">prisma<i>.</i></div></div></header>
+<main><div class="wrap">
+  <span class="pill"><b aria-hidden="true"></b>Coming soon</span>
+  <h1>Every country.<br>One brief.<br><span>Coming soon.</span></h1>
+  <p class="lede">The top stories from all 196 countries, every day, in a three-minute <strong>Prisma Brief</strong>. Sources always linked.</p>
+  <div class="row"><a class="btn accent" href="app/">Take a sneak peek</a></div>
+  <div class="facts" aria-label="Prisma at a glance">
+    <div class="fact"><b>196</b><span>countries</span></div>
+    <div class="fact"><b>5</b><span>top stories each</span></div>
+    <div class="fact"><b>3 min</b><span>daily brief</span></div>
+  </div>
+</div></main>
+<footer><div class="wrap"><span>© 2026 Prisma Daily</span><span>AI-assisted · sources linked</span></div></footer>
+</body>
+</html>
