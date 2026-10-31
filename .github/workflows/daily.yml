@@ -1,0 +1,74 @@
+name: Prisma Daily
+
+on:
+  schedule:
+    - cron: "17 19 * * *"   # 6:17am Sydney (AEDT). In winter (AEST) it runs at 5:17am.
+  workflow_dispatch:         # "Run workflow" button on the Actions tab
+    inputs:
+      mode:
+        description: "full = collect a fresh edition, deploy = just republish the site"
+        default: full
+        type: choice
+        options: [full, deploy]
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: prisma-daily
+  cancel-in-progress: false
+
+jobs:
+  edition:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main   # always the newest files, even for queued runs
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -e ".[gnews]"
+
+      # Yesterday's database, so any country that comes up short keeps yesterday's stories.
+      - uses: actions/cache@v4
+        with:
+          path: data/pfp.sqlite3
+          key: pfp-db-${{ github.run_id }}
+          restore-keys: pfp-db-
+
+      # Pushes only redeploy the site. The schedule and the Run button collect a fresh edition.
+      - name: Collect today's edition (all 196 countries)
+        if: github.event_name != 'push' && inputs.mode != 'deploy'
+        continue-on-error: true
+        run: |
+          mkdir -p data
+          pfp -v run --workers 4 --export --out /tmp/edition.json
+          python -c "import json,sys; d=json.load(open('/tmp/edition.json')); n=sum(1 for c in d['countries'] if c['stories']); print(n,'countries filled'); sys.exit(0 if n>=20 else 1)" && cp /tmp/edition.json site/app/edition.json
+
+      - name: Save the edition to the repo
+        if: github.event_name != 'push' && inputs.mode != 'deploy'
+        run: |
+          git config user.name "prisma-bot"
+          git config user.email "prisma-bot@users.noreply.github.com"
+          git add site/app/edition.json
+          git commit -m "Edition $(date -u +%F)" || echo "No changes"
+          git pull --rebase origin main || true
+          git push || echo "Push skipped"
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deploy
+        uses: actions/deploy-pages@v4
