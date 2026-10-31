@@ -1,0 +1,64 @@
+name: Prisma AI server
+
+# Deploys worker/ to Cloudflare and connects it to the site.
+# Needs two repository secrets: CLOUDFLARE_API_TOKEN and ANTHROPIC_API_KEY
+# (optional third: CLOUDFLARE_ACCOUNT_ID, if your Cloudflare login has more than one account).
+on:
+  workflow_dispatch:   # Actions tab > Prisma AI server > Run workflow (after adding the secrets)
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Check the secrets are set
+        env:
+          CF: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          AK: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          if [ -z "$CF" ] || [ -z "$AK" ]; then
+            echo "::error::Add CLOUDFLARE_API_TOKEN and ANTHROPIC_API_KEY under Settings > Secrets and variables > Actions."
+            exit 1
+          fi
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Deploy the AI server
+        working-directory: worker
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          npx --yes wrangler@3 deploy 2>&1 | tee deploy.log
+          printf '%s' "$ANTHROPIC_API_KEY" | npx --yes wrangler@3 secret put ANTHROPIC_API_KEY
+          URL=$(grep -oE 'https://[a-zA-Z0-9.-]+\.workers\.dev' deploy.log | head -1)
+          if [ -z "$URL" ]; then echo "::error::Couldn't find the workers.dev address. Open Workers & Pages in Cloudflare once to choose a subdomain, then rerun."; exit 1; fi
+          echo "AI_URL=$URL" >> "$GITHUB_ENV"
+          echo "Deployed to $URL"
+          curl -fsS "$URL/health" || true
+
+      - name: Point the site at the AI server
+        run: |
+          printf '{"ai":"%s"}\n' "$AI_URL" > site/app/config.json
+          git config user.name "prisma-bot"
+          git config user.email "prisma-bot@users.noreply.github.com"
+          git add site/app/config.json
+          if git commit -m "Connect AI server"; then
+            git pull --rebase origin main || true
+            git push
+          fi
+
+      - name: Republish the site
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run daily.yml -f mode=deploy
